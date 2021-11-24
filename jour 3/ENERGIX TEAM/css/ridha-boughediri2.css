@@ -1,0 +1,45 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'Source sans Prof', Tahoma,sans-serif, Calibri;
+    font-size: 16px;
+}
+.infOphoto{
+    height: 222px;
+
+}
+.photo{
+ float: right;
+}
+.info{
+float: left;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.sec-g{
+  
+    float: left;
+    font-weight: bold;
+    font-size-20px;
+}
+.sec-d{
+    margin-left:150px ;
+    margin-top: 35px;
+}
+h2{
+    font-size: 28px;
+    color: blue;
+    border-bottom: solid 4px;
+}
+.duree{
+    font-style: italic;
+    font-size:16px;
+    font-weight: normal;
+}
+.title{
+
+    font-weight: bold;
+    font-size: 16px;
+}

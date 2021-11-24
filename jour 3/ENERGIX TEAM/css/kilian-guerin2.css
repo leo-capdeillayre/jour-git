@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #041c42;
+    background-image: url("../img/background.jpg");
+    background-size: 80%;
+    background-repeat: no-repeat;
+
+    color: #fff;
+    font: 16px;
+    font-family: "Comfortaa";
+    src: url('../font/cm.ttf');
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.image-profil {
+    padding-left: 40%;
+    width: 25%;
+    height: 100%;
+}
+
+.informations_title {
+    background-color: #041c42;
+    padding: 5% 2% 0% 2%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 40%;
+    height: 89.7%;
+}
+
+.informations_title h1 {
+    font: 2%;
+    
+}
+
+.informations_title h2 {
+    text-decoration: underline;
+    line-height: 180%;
+}
